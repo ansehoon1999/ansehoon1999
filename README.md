@@ -34,7 +34,15 @@ machine learning, deep learning, android
 📃 '감정분석 기반 심리상담 AI 챗봇 시스템에 대한 연구' 한국 IT서비스 학회지 vol.20, no.3 
 https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002732741
 
+- 7월 진행 중인 비밀 프로젝트: 2건<br>
+- 8월 진행 예정 비밀 프로젝트: 2건<br>
+
+
 <br>
+
+
+
+
 
 <h3 align="left"> 🎖 awards </h3>
 
