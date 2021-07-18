@@ -51,37 +51,39 @@ https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArti
 
 <h3 align="left"> 📝 15 projects </h3>
 
-📅 2021년 (4학년)
+<br>
 
-📌 Secret Project #1
-📌 Secret Project #2
-📌 '노인을 위한 IoT 기반 운동복 및 추천 & 챗봇 시스템' 아이디어톤 (deep learning & Arduino)
-📌 '여행 후기 자동화 어플' (Android & Recommendation System)
-📌 Hint based Colorization using U-net (deep learning)
-📌 Yoga Classification (deep learning)
-📌 '프리라이더 찾기 어플' 메이캔 기업 프로젝트 (Android)
-📌 '시선 추적 기술을 활용한 E-BOOK' (deep learning & Android)
+📅 2021년 (4학년)<br>
+
+📌 Secret Project #1<br>
+📌 Secret Project #2<br>
+📌 '노인을 위한 IoT 기반 운동복 및 추천 & 챗봇 시스템' 아이디어톤 (deep learning & Arduino)<br>
+📌 '여행 후기 자동화 어플' (Android & Recommendation System)<br>
+📌 Hint based Colorization using U-net (deep learning)<br>
+📌 Yoga Classification (deep learning)<br>
+📌 '프리라이더 찾기 어플' 메이캔 기업 프로젝트 (Android)<br>
+📌 '시선 추적 기술을 활용한 E-BOOK' (deep learning & Android)<br>
  
-📅 2020년 (3학년)
+📅 2020년 (3학년)<br>
 
-📌 '토닥토닥 프로젝트' 졸업작품 (Android & deep learning & python & Node.js)
-📌 '댕겨와 프로젝트'와 테스팅 & 개발자 버전 (Android)
-📌 '시애틀 집값 예측 프로젝트' Data Science (Python & Machine Learning)
-📌 '어몽어스 방탈출 게임' Computer Graphics (Three.js)
+📌 '토닥토닥 프로젝트' 졸업작품 (Android & deep learning & python & Node.js)<br>
+📌 '댕겨와 프로젝트'와 테스팅 & 개발자 버전 (Android)<br>
+📌 '시애틀 집값 예측 프로젝트' Data Science (Python & Machine Learning)<br>
+📌 '어몽어스 방탈출 게임' Computer Graphics (Three.js)<br>
 
-📅 2019년 (2학년)
+📅 2019년 (2학년)<br>
  
-📌 '배달 데이터 베이스 시스템' (MySQL)
-📌 '구구단 게임 및 채팅 시스템' (Java)
-📌 '데이트 코스 최단거리 알고리즘 & 추천 시스템' (Java & Machine Learning)
+📌 '배달 데이터 베이스 시스템' (MySQL)<br>
+📌 '구구단 게임 및 채팅 시스템' (Java)<br>
+📌 '데이트 코스 최단거리 알고리즘 & 추천 시스템' (Java & Machine Learning)<br>
 
-📅 2018년 (1학년)
+📅 2018년 (1학년)<br>
 
-📌 '스마트 신호등 만들기' (Arduino) 
+📌 '스마트 신호등 만들기' (Arduino) <br>
 
-📅 2017년 (1학년)
+📅 2017년 (1학년)<br>
 
-📌 'AOMG 홈페이지 만들기' (HTML/CSS/JavaScript)
+📌 'AOMG 홈페이지 만들기' (HTML/CSS/JavaScript)<br>
 
 
 
