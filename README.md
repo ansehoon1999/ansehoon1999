@@ -48,7 +48,7 @@ https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArti
 
 🥈 '스타트업과 함께하는 피버팅 해커톤' 최우수상 <br>
 🥉 'KUSITMS 학술제' 우수상 <br>
-🏆 '가천대학교 졸업작품' 우수 포스터상 <br>
+🏆 '토닥토닥 프로젝트' 졸업작품 우수 포스터상 <br>
 
 <br>
 
