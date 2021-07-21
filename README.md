@@ -26,6 +26,7 @@ machine learning, deep learning, android
 
 <h3 align="left"> 🖥  activities </h3>
 
+📝 Gachon Uni. HCI Lab RA(학부 연구생)<br>
 📝 Gachon Uni. IDA Lab RA(학부 연구생)<br>
 📊 Data Analytics Club(운수데통) 3rd<br>
 🏢 WiseiTech internship<br>
