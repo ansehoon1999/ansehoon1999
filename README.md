@@ -35,7 +35,6 @@ machine learning, deep learning, android
 📃 '감정분석 기반 심리상담 AI 챗봇 시스템에 대한 연구' 한국 IT서비스 학회지 vol.20, no.3 
 https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002732741
 
-- 7월 진행 중인 비밀 프로젝트: 2건<br>
 - 8월 진행 예정 비밀 프로젝트: 2건<br>
 
 
@@ -81,8 +80,8 @@ https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArti
 <h3 align="left"> 📝 15 projects </h3>
 📅 2021년 (4학년)<br><br>
 
-📌 Secret Project #1<br>
-📌 Secret Project #2<br>
+📌 앱 아이디어 챌린지 <br>
+📌 문화관광 빅데이터 분석대회 <br>
 📌 '노인을 위한 IoT 기반 운동복 및 추천 & 챗봇 시스템' 아이디어톤 (deep learning & Arduino)<br>
 📌 '여행 후기 자동화 어플' (Android & Recommendation System)<br>
 📌 Hint based Colorization using U-net (deep learning)<br>
