@@ -111,7 +111,3 @@ https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArti
 📌 'AOMG 홈페이지 만들기' (HTML/CSS/JavaScript)<br>
 
 
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansehoon1999)](https://solved.ac/ansehoon1999)
-
