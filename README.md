@@ -8,23 +8,15 @@
 <br>
 
 
-<h3 align="left">  🔖  Major </h3>
+<h3 align="left">  🔖  About Me </h3>
 
 - A student of dept.Software at Gachon Univ (4th grade).
+- I'm interested in ML & DL 
+- My hobby is to develop Android App 
 
 <br>
 
-<h3 align="left">  👋 Interest </h3>
-
-machine learning, deep learning, android
-
-<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="mailto:ansehoon1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ansehoon1999@gmail.com"/></a>
-<a href="https://www.instagram.com/se7hun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/se7hun/"/></a>
-
-<br>
-
-<h3 align="left"> 🖥  activities </h3>
+<h3 align="left"> 🖥 Activities </h3>
 
 📝 Gachon Uni. HCI Lab RA(학부 연구생)<br>
 📝 Gachon Uni. IDA Lab RA(학부 연구생)<br>
@@ -34,9 +26,6 @@ machine learning, deep learning, android
 ⛪ 데이터 청년 캠퍼스 이수중<br>
 📃 '감정분석 기반 심리상담 AI 챗봇 시스템에 대한 연구' 한국 IT서비스 학회지 vol.20, no.3 
 https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002732741
-
-- 8월 진행 예정 비밀 프로젝트: 2건<br>
-
 
 <br>
 
@@ -77,36 +66,24 @@ https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArti
 </p>
 
 <br>
-<h3 align="left"> 📝 15 projects </h3>
-📅 2021년 (4학년)<br><br>
+<h3 align="left"> 📝 ML & DL Projects </h3>
 
-📌 문화관광 빅데이터 분석대회 <br>
-📌 '노인을 위한 IoT 기반 운동복 및 추천 & 챗봇 시스템' 아이디어톤 (deep learning & Arduino)<br>
-📌 '여행 후기 자동화 어플' (Android & Recommendation System)<br>
-📌 Hint based Colorization using U-net (deep learning)<br>
-📌 Yoga Classification (deep learning)<br>
-📌 '프리라이더 찾기 어플' 메이캔 기업 프로젝트 (Android)<br>
-📌 '시선 추적 기술을 활용한 E-BOOK' (deep learning & Android)<br>
- 
-📅 2020년 (3학년)<br>
 
-📌 '토닥토닥 프로젝트' 졸업작품 (Android & deep learning & python & Node.js)<br>
-📌 '댕겨와 프로젝트'와 테스팅 & 개발자 버전 (Android)<br>
-📌 '시애틀 집값 예측 프로젝트' Data Science (Python & Machine Learning)<br>
-📌 '어몽어스 방탈출 게임' Computer Graphics (Three.js)<br>
+📌 '노인을 위한 여가 관광 활성화 방안' 문화관광 빅데이터 분석대회 <br>
+📌 '노인을 위한 IoT 기반 운동복 및 추천 & 챗봇 시스템' 아이디어톤 <br>
+📌 'Hint based Colorization using U-net' Multimedia & Lab Project <br>
+📌 'Yoga Classification' Deep learning project <br>
+📌 '시선 추적 기술을 활용한 E-BOOK' 중소기업과 함께하는 해커톤 <br>
+📌 '토닥토닥 프로젝트' 졸업작품 <br>
+📌 '시애틀 집값 예측 프로젝트' Data Science <br>
+📌 '데이트 코스 최단거리 알고리즘 & 추천 시스템' <br>
 
-📅 2019년 (2학년)<br>
- 
-📌 '배달 데이터 베이스 시스템' (MySQL)<br>
-📌 '구구단 게임 및 채팅 시스템' (Java)<br>
-📌 '데이트 코스 최단거리 알고리즘 & 추천 시스템' (Java & Machine Learning)<br>
+<h3 align="left"> 📝 Android Projects </h3>
 
-📅 2018년 (1학년)<br>
-
-📌 '스마트 신호등 만들기' (Arduino) <br>
-
-📅 2017년 (1학년)<br>
-
-📌 'AOMG 홈페이지 만들기' (HTML/CSS/JavaScript)<br>
-
+📌 '짜잘짜잘 프로젝트' <br>
+📌 '여행 후기 자동화 어플' <br>
+📌 '프리라이더 찾기 어플' 메이캔 기업 프로젝트 <br>
+📌 '댕겨와 프로젝트'와 테스팅 & 개발자 버전 <br>
+📌 '시선 추적 기술을 활용한 E-BOOK' <br>
+📌 '토닥토닥 프로젝트' 졸업작품 <br>
 
