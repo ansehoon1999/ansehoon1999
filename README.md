@@ -61,7 +61,7 @@ https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArti
 </p>
 
 <br>
-<h3 align="left"> 📝 ML & DL Projects </h3>
+<h3 align="left"> 📝 ML&DL Projects </h3>
 
 
 📌 '노인을 위한 여가 관광 활성화 방안' 문화관광 빅데이터 분석대회 <br>
