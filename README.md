@@ -23,8 +23,7 @@
 📊 Data Analytics Club(운수데통) 3rd<br>
 🏢 WiseiTech internship<br>
 👀 KUSITMS 23th<br>
-⛪ 데이터 청년 캠퍼스 이수중<br>
-🖥  4차산업혁명 동아리 'TAVE' 8기 <br>
+⛪ 데이터 청년 캠퍼스 이수<br>
 📃 '감정분석 기반 심리상담 AI 챗봇 시스템에 대한 연구' 한국 IT서비스 학회지 vol.20, no.3 
 https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002732741
 
@@ -64,7 +63,7 @@ https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArti
 <br>
 <h3 align="left"> 📝 ML&DL Projects </h3>
 
-📌
+📌 '자원순환기기 입지 분석' 데이터 청년 캠퍼스 프로젝트 <>
 📌 '노인을 위한 여가 관광 활성화 방안' 문화관광 빅데이터 분석대회 <br>
 📌 '노인을 위한 IoT 기반 운동복 및 추천 & 챗봇 시스템' 아이디어톤 <br>
 📌 'Hint based Colorization using U-net' Multimedia & Lab Project <br>
