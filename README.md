@@ -75,7 +75,6 @@ https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArti
 
 <h3 align="left"> 📝 Android Projects </h3>
 
-📌 '짜잘짜잘 프로젝트' <br>
 📌 '여행 후기 자동화 어플' <br>
 📌 '프리라이더 찾기 어플' 메이캔 기업 프로젝트 <br>
 📌 '댕겨와 프로젝트'와 테스팅 & 개발자 버전 <br>
