@@ -35,7 +35,7 @@ https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArti
 🥈 '스타트업과 함께하는 피버팅 해커톤' 최우수상 (교내 우수 대외 활동 )<br>
 🥉 'KUSITMS 학술제' 우수상 <br>
 🏆 '토닥토닥 프로젝트' 졸업작품 우수 포스터상 <br>
-🏅 '창의 아이디어 발명디자인 경진대회' 입선 <br>
+🏅 '창의 아이디어 발명디자인 경진대회' 사업단장상 <br>
 ✨ 성적 우수 장학금 5회 (2018-2, 2019-1, 2019-2, 2020-1, 2020-2)
 
 <br>
