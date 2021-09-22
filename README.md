@@ -25,6 +25,7 @@
 🏢 WiseiTech internship<br>
 👀 KUSITMS 23th<br>
 ⛪ 데이터 청년 캠퍼스 이수<br>
+🔗 LinkUs 10th <br>
 📃 '감정분석 기반 심리상담 AI 챗봇 시스템에 대한 연구' 한국 IT서비스 학회지 vol.20, no.3 
 https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002732741
 
