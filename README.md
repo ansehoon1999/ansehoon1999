@@ -2,7 +2,8 @@
 <h3 align="left"> 🐧 My Profile </h3>
 
 - SeHun, An 🙎‍♂️🇰🇷
-- Portfolio Link https://www.notion.so/0a894d8503cf4cc28639f1b9d1bf1f0a
+- Notion Portfolio Link https://www.notion.so/0a894d8503cf4cc28639f1b9d1bf1f0a
+- LinkedIn Portfolio Link: https://www.linkedin.com/in/se7hun/
 
 
 <br>
