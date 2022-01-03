@@ -11,9 +11,8 @@
 
 <h3 align="left">  🔖  About Me </h3>
 
-- A student of dept.Software at Gachon Univ (4th grade).
-- I'm interested in ML & DL 
-- My hobby is to develop Android App 
+- Sungkyunkwan University HLI Lab
+- I'm interested in NLP
 
 <br>
 
