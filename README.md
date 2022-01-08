@@ -75,15 +75,3 @@ https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArti
 📌 '토닥토닥 프로젝트' 졸업작품 <br>
 📌 '시애틀 집값 예측 프로젝트' Data Science <br>
 📌 '데이트 코스 최단거리 알고리즘 & 추천 시스템' <br>
-
-<h3 align="left"> 📝 Android Projects </h3>
-
-📌 '여행 후기 자동화 어플' <br>
-📌 '프리라이더 찾기 어플' 메이캔 기업 프로젝트 <br>
-📌 '댕겨와 프로젝트'와 테스팅 & 개발자 버전 <br>
-📌 '시선 추적 기술을 활용한 E-BOOK' <br>
-📌 '토닥토닥 프로젝트' 졸업작품 <br>
-
-
-
-
