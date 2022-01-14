@@ -72,4 +72,3 @@ https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArti
 📌 '시선 추적 기술을 활용한 E-BOOK' 중소기업과 함께하는 해커톤 <br>
 📌 '토닥토닥 프로젝트' 졸업작품 <br>
 📌 '시애틀 집값 예측 프로젝트' Data Science <br>
-📌 '데이트 코스 최단거리 알고리즘 & 추천 시스템' <br>
