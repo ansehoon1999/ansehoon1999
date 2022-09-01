@@ -2,7 +2,7 @@
 <h3 align="left"> 🐧 My Profile </h3>
 
 - SeHun, An 🙎‍♂️🇰🇷
-- Notion Portfolio Link https://www.notion.so/0a894d8503cf4cc28639f1b9d1bf1f0a
+- Portfolio Link
 
 <br>
 <h3 align="left"> 📝 Android </h3>
