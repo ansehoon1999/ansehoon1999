@@ -1,27 +1,29 @@
-
-<h3 align="left"> 🐧 My Profile </h3>
-
-- SeHun, An 🙎‍♂️🇰🇷
-- Portfolio Link
-
-<br>
-<h3 align="left"> 📝 Android </h3>
-
-📌 '댕겨와' 반려 동물 품앗이 어플리케이션 <br>
-📌 '트래블로그' 여행지 기록 자동화 어플리케이션 <br>
-📌 '시선 추적 기술을 활용한 E-BOOK' 중소기업과 함께하는 해커톤 <br>
-📌 '토닥토닥 프로젝트' 졸업작품 어플리케이션 <br>
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20SeHun!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
 
-<br>
-<h3 align="left"> 🎖 awards </h3>
+<h3 align="center">👋 It's me! 👋</h3>
+<p align="center">
+  <b>Android Developer</b> 👩‍💻 <br>
+  <b>I'm growing everyday</b> 🌿
+</p>
 
-🥈 '2021 스타트업과 함께하는 피버팅 해커톤' 최우수상 (교내 우수 대외 활동)<br>
-🥉 '2021 KUSITMS 학술제' 우수상 <br>
-🏆 '2021 토닥토닥 프로젝트' 졸업작품 우수 포스터상 <br>
-🏅 '2021 창의 아이디어 발명디자인 경진대회' 사업단장상 <br>
-✨ 성적 우수 장학금 5회 (2018-2, 2019-1, 2019-2, 2020-1, 2020-2)
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-007396?style=flat-square&logo=kotlin&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
 
+</p>
 
+<h3 align="center">🌈 Follow Me 🌈</h3>
+<p align="center">
+  <a href=""><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+</p>
 
-
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansehoon1999&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<p align="center">
+  </p>
