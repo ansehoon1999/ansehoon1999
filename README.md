@@ -23,9 +23,8 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansehoon1999&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansehoon1999)](https://solved.ac/ansehoon1999)
-</div>
-<p align="center">
-  </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansehoon1999&hide=stars&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) 
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ansehoon1999">
+  
+  
