@@ -18,12 +18,4 @@
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
-
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
- 
-
-  
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ansehoon1999">
-  
   
