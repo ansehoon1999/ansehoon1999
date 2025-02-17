@@ -15,9 +15,9 @@
 <br><br>
 - https://github.com/ehsannarmani/ComposeCharts/pull/70
 <br><br>
-- https://github.com/joelkanyi/kompose-country-code-picker
+- https://github.com/joelkanyi/kompose-country-code-picker/pull/110
 <br><br>
-- https://github.com/Breens-Mbaka/Searchable-Dropdown-Menu-Jetpack-Compose
+- https://github.com/Breens-Mbaka/Searchable-Dropdown-Menu-Jetpack-Compose/pull/58
 <br><br>
 - https://github.com/Kiaorra/wavy/pull/8
 <br>
