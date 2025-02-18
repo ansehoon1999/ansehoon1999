@@ -13,6 +13,8 @@
 <h4 align="left"> Contributor </h3>
 - https://github.com/square/kotlinpoet/pull/2075
 <br><br>
+- https://github.com/slackhq/circuit/pull/1957
+<br><br>
 - https://github.com/ehsannarmani/ComposeCharts/pull/70
 <br><br>
 - https://github.com/joelkanyi/kompose-country-code-picker/pull/110
