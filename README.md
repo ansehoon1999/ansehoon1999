@@ -11,9 +11,12 @@
 <h3 align="left"> Open Source Projects </h3>
 
 <h4 align="left"> Maintainer </h3>
-Feedback and PRs are always welcome. If you found it interesting, please consider giving it a star!
 
-- https://github.com/henni99/Handwriting
+<h3>Handwriting (https://github.com/henni99/Handwriting) </h3>
+
+Feedback and PRs are always welcome. If you found it interesting, please consider giving it a star!
+<br>
+
 
 🖊️ Pen Tool | 🧽 Stroke Eraser Tool | 🪢  Lasso Tool | 🔍  Zoom |
 | :---------------: | :---------------: | :---------------: | :---------------: |
