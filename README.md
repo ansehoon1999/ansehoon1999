@@ -8,11 +8,11 @@
 </p> 
 
 
-<h3 align="left"> Open Source Projects </h3>
+<h2 align="left"> Open Source Projects </h3>
 
-<h4 align="left"> Maintainer </h3>
+<h3 align="left"> Maintainer </h3>
 
-<h3>Handwriting (https://github.com/henni99/Handwriting) </h3>
+<h4>Handwriting (https://github.com/henni99/Handwriting) </h4>
 
 Feedback and PRs are always welcome. If you found it interesting, please consider giving it a star!
 <br>
@@ -25,7 +25,7 @@ Feedback and PRs are always welcome. If you found it interesting, please conside
 <br>
 <br>
 
-<h4 align="left"> Contributor </h3>
+<h3 align="left"> Contributor </h3>
 - https://github.com/square/kotlinpoet/pull/2075
 <br><br>
 - https://github.com/slackhq/circuit/pull/1957
